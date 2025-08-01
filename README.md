@@ -17,5 +17,7 @@ A React app that allows users to type floating chat bubbles over a video backgro
 
 ## 📸 Demo
 
-> [Uploading CleanShot 2025-08-01 at 23.16.07.mp4…](https://github.com/user-attachments/assets/f96044d5-9978-44e1-af21-850de4a3520b)
+> https://github.com/user-attachments/assets/b24ed711-b3e6-4cbc-8ce5-27eca192bdc2
+
+
 
