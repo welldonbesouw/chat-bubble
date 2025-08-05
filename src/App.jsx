@@ -52,7 +52,7 @@ function App() {
          } else {
             setChatArray((prev) => prev.slice(1));
          }
-      }, 3000);
+      }, 6000);
 
       return () => clearInterval(interval);
    }, [chatArray]);
